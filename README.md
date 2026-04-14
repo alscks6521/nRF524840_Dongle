@@ -1,6 +1,9 @@
 # nRF524840_Dongle
-무선 통신 전용 칩. 사용 시나리오
-  
+무선 통신 전용 칩. 사용 시나리오  
+
+![alt text](imgs/nrf524840_dongle.png)
+    
+    
 # 노르딕 nRF52840 { Dongle } 사용
 
 ### nRF52840 Dongle → 오드로이드 BLE 연결 전체 가이드
